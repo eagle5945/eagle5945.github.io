@@ -4,14 +4,14 @@ date: 2026-09-16
 draft: false
 tags:
   - Hugo
-  - Synology
+  - GitHub
 categories:
   - Server
 ---
 
 # Hugo 블로그 시작
 
-Synology NAS에서 서비스하는 Hugo 기반 기술 블로그입니다.
+GitHub Pages에서 서비스하는 Hugo 기반 기술 블로그입니다.
 
 ## 테스트
 
@@ -23,7 +23,7 @@ hugo version
 
 ## 앞으로 다룰 내용
 
-- Synology NAS
+- GitHub Pages
 - Linux Server
 - Docker
 - AI

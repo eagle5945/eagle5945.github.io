@@ -5,6 +5,7 @@ draft: false
 tags:
   - Hugo
   - GitHub
+  - Markdown
 categories:
   - Server
 ---
